@@ -62,6 +62,7 @@ call neobundle#begin(expand('~/.vim/bundle/'))
   NeoBundle 'thoughtbot/vim-rspec'
   NeoBundle "git://github.com/tpope/vim-dispatch.git"
   NeoBundle "git://github.com/davidhalter/jedi-vim"
+  NeoBundle 'benmills/vimux'
 call neobundle#end()
 
 
